@@ -1,7 +1,9 @@
 <div align="center">
 <img src="./hero-banner.svg" width="100%" alt="Nachiketa Sharma Hero Banner"/>
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=A855F7&center=true&vCenter=true&width=720&lines=Building+BLOOM;Aspiring+Full-Stack+Developer;Exploring+AIML+%26+Cybersecurity;Turning+curiosity+into+products.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=A855F7&center=true&vCenter=true&width=720&lines=Building+BLOOM;Aspiring+Full-Stack+Developer;Exploring+AIML+%26+Cybersecurity;Turning+curiosity+into+products." alt="Typing SVG" />
+</a>
 </div>
 
 <div align="center"><img src="./assets/divider-constellation.svg" width="100%"/></div>
@@ -86,7 +88,6 @@ Instead of simply helping parents choose a school, BLOOM aims to help them under
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketa11&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=E5E7EB"/>
 </p>
 
-> If these cards don't appear in Preview, commit first—they usually render correctly on the live profile.
 
 <div align="center"><img src="./assets/divider-orbit.svg" width="100%"/></div>
 
