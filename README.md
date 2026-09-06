@@ -72,7 +72,7 @@ status
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux,windows&theme=dark"/>
 </p>
 
-<text size=sm>Technologies I'm currently using, learning, or building projects with.</text>
+> Technologies I'm currently using, learning, or building projects with.
 
 <div align="center">
   <img src="./divider-constellation.svg" width="100%"/>
@@ -98,9 +98,9 @@ BLOOM is my long-term product vision: helping parents discover schools, compare 
   <img src="./divider-constellation.svg" width="100%"/>
 </div>
 
-# ✦ Development Snapshot
+# ✦ Activity
 
-> A live snapshot of my GitHub and LeetCode journey.
+> Live activity across GitHub and LeetCode.
 
 ## LeetCode
 
@@ -128,7 +128,7 @@ BLOOM is my long-term product vision: helping parents discover schools, compare 
 # ✦ Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nachiketa11&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nachiketa11&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 </p>
 
 <div align="center">
@@ -168,7 +168,7 @@ BLOOM is my long-term product vision: helping parents discover schools, compare 
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/nachiketa-sharma-872947361/">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
