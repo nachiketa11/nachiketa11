@@ -128,7 +128,7 @@ BLOOM is my long-term product vision: helping parents discover schools, compare 
 # ✦ Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nachiketa11&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+  <img src="./.github/assets/trophy.svg" width="100%" alt="GitHub Trophies"/>
 </p>
 
 <div align="center">
