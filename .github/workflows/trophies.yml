@@ -1,0 +1,32 @@
+
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: nachiketa11
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add trophy.svg
+          git diff --cached --quiet || git commit -m "Update trophies"
+          git push
