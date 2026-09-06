@@ -18,13 +18,13 @@ I'm **Nachiketa Sharma**, a second-year Computer Science student at **SRM IST**.
 
 I'm working toward becoming a **Full-Stack Developer** with a strong interest in **Artificial Intelligence, Machine Learning, and Cybersecurity**. My curiosity started with technology itself—from watching hardware reviews to understanding how modern software systems are built—and today I enjoy turning ambitious ideas into products.
 
-### 🌌 Current Orbit
+### Current Orbit
 
-- 🌸 Designing **BLOOM**, an AI-powered School Finder & Education Planner
-- 🌐 Strengthening my Full-Stack development foundation
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🛡 Learning practical Cybersecurity concepts
-- 🚀 Building projects that solve real-world problems
+- Building **BLOOM**, an AI-powered School Finder & Education Planner
+- Strengthening my Full-Stack development foundation
+- Exploring AI and Machine Learning
+- Learning practical Cybersecurity concepts
+- Building projects that solve real-world problems
 
 <div align="center">
   <img src="./divider-orbit.svg" width="100%"/>
@@ -42,7 +42,7 @@ current_project
 > BLOOM
 
 interests
-> AIML • Cybersecurity • Product Building
+> AI/ML • Cybersecurity • Product Building
 
 status
 > Building. Learning. Shipping.
@@ -52,7 +52,7 @@ status
   <img src="./divider-constellation.svg" width="100%"/>
 </div>
 
-# ✦ Tech Universe
+# ✦ Tech Stack
 
 ### Languages
 
@@ -72,56 +72,73 @@ status
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux,windows&theme=dark"/>
 </p>
 
-<text size=sm>
-These represent technologies I'm currently using, learning, or building projects with.
-</text>
+<text size=sm>Technologies I'm currently using, learning, or building projects with.</text>
 
 <div align="center">
   <img src="./divider-constellation.svg" width="100%"/>
 </div>
 
-# 🌸 BLOOM
+# ✦ BLOOM
 
 > *AI-Powered School Finder & Education Planner*
 
 BLOOM is my long-term product vision: helping parents discover schools, compare educational opportunities, and plan their child's learning journey through research-backed insights and personalized recommendations.
 
-### ✦ Flight Path
+### Flight Path
 
 | Stage | Status |
-|-------|--------|
-| 🌠 Research | ● Complete |
-| 🪐 Planning | ● Complete |
-| ✨ Architecture | ◐ In Progress |
-| 🚀 MVP | ○ Next |
-| 🌌 AI Integration | ○ Future |
+|--------|--------|
+| Research | ● Complete |
+| Planning | ● Complete |
+| Architecture | ◐ In Progress |
+| MVP | ○ Next |
+| AI Integration | ○ Future |
 
 <div align="center">
   <img src="./divider-constellation.svg" width="100%"/>
 </div>
 
-# ✦ Constellation Map
+# ✦ Development Snapshot
 
-> *A live snapshot of my development journey.*
+> A live snapshot of my GitHub and LeetCode journey.
+
+## LeetCode
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nachiketa11&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=nachiketa11&theme=midnight-purple&hide_border=true&background=00000000&ring=A855F7&fire=C084FC&currStreakLabel=E5E7EB"/>
-
+  <img width="95%" src="https://leetcard.jacoblin.cool/Nachiketa_Sharma?theme=dark&font=JetBrains+Mono&ext=contest"/>
 </p>
 
 <p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nachiketa11&theme=tokyo-night&bg_color=00000000&hide_border=true&color=C084FC&line=A855F7&point=E5E7EB"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nachiketa11&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=nachiketa11&theme=midnight-purple&hide_border=true&background=00000000&ring=A855F7&fire=C084FC&currStreakLabel=E5E7EB"/>
 </p>
 
 <p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nachiketa11&theme=tokyo-night&bg_color=00000000&hide_border=true&color=C084FC&line=A855F7&point=E5E7EB"/>
+</p>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachiketa11&theme=tokyonight"/>
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachiketa11&theme=tokyonight"/>
+</p>
 
+<div align="center">
+  <img src="./divider-constellation.svg" width="100%"/>
+</div>
+
+# ✦ Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nachiketa11&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+</p>
+
+<div align="center">
+  <img src="./divider-orbit.svg" width="100%"/>
+</div>
+
+# 🐍 Contribution Orbit
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nachiketa11/nachiketa11/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </p>
 
 <div align="center">
@@ -130,21 +147,29 @@ BLOOM is my long-term product vision: helping parents discover schools, compare 
 
 # 🛰 Current Mission
 
-- 🌐 Build a strong Full-Stack foundation.
-- 🤖 Learn AI & Machine Learning through real projects.
-- 🛡 Develop practical Cybersecurity skills.
-- 🚀 Turn ambitious ideas into products people actually use.
+- Build a strong Full-Stack foundation.
+- Learn AI and Machine Learning through real projects.
+- Develop practical Cybersecurity skills.
+- Turn ambitious ideas into products people actually use.
 
 <div align="center">
   <img src="./divider-orbit.svg" width="100%"/>
 </div>
 
-# ✦ Let's Connect
+# ✦ Connect
 
 <p align="center">
 
 <a href="mailto:nachiketasharma0911@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nachiketa11">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
