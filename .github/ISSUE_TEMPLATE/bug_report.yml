@@ -1,0 +1,43 @@
+name: Bug report
+description: Report a reproducible problem with the profile repository or its supporting assets.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for reporting an issue. Please avoid sharing passwords, tokens, or private information."
+  - type: input
+    id: location
+    attributes:
+      label: Affected file or section
+      description: Link to the file or section where the problem appears.
+      placeholder: "README.md, hero-banner.svg, ..."
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: What happened?
+      description: Describe the behavior you observed.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open ...\n2. Scroll to ...\n3. Observe ..."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Browser or environment (optional)
+      description: Include relevant browser/device details, but no sensitive data.
+    validations:
+      required: false
